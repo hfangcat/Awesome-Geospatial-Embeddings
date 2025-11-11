@@ -2,6 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](../../pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](../../graphs/commit-activity)
 
 A curated list of papers that **define, analyze, or evaluate geospatial embeddings** — how spatial, temporal, or semantic Earth data are represented in embedding space, and how those embeddings behave or are applied.
 
