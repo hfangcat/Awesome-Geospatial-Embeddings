@@ -19,6 +19,8 @@ and how those embeddings behave or are applied.
 |-------|--------|-------------|--------|------|
 
 
+---
+
 ## 📡 2. Spatial / Location Embeddings
 *Methods that learn embeddings for coordinates, regions, or spatial contexts.*
 
@@ -26,6 +28,8 @@ and how those embeddings behave or are applied.
 | Abbr. | Title | Publication | Paper | Code |
 |-------|--------|-------------|--------|------|
 
+
+---
 
 ## 🧠 3. Evaluation and Analysis of Embeddings
 *Works that probe, benchmark, or visualize the behavior and quality of geospatial embeddings.*
@@ -35,6 +39,8 @@ and how those embeddings behave or are applied.
 |-------|--------|-------------|--------|------------------|
 
 
+---
+
 ## 🏆 4. Open Challenges and Competitions
 *Active or past public challenges focused on geospatial embedding learning or evaluation.*
 
@@ -42,6 +48,8 @@ and how those embeddings behave or are applied.
 | Year | Challenge | Host / Platform | Link |
 |------|------------|----------------|------|
 
+
+---
 
 ## 🌎 5. Applications of Geospatial Embeddings
 *Papers that use existing embeddings for mapping, retrieval, similarity search, or reasoning tasks.*
@@ -51,8 +59,21 @@ and how those embeddings behave or are applied.
 |-------|--------|-------------|--------|----------------|
 
 
+---
+
 ## 🌐 6. Related Works (for context)
-*Representation learning or foundation model papers that produce embeddings but are not embedding-centric.*
+<!-- *Representation learning or foundation model papers that produce embeddings but are not embedding-centric.* -->
+*Broader studies on representation learning and multimodal embeddings that provide conceptual context for geospatial embedding research.*  
+
+### 🔄 6.1 General Multimodal Embedding and Modality Gap Studies  
+*Works that investigate or analyze the latent space gap between visual and textual modalities — relevant for understanding cross-modal geospatial embeddings.*
+
+| Abbr. | Title | Publication | Paper | Code |
+|-------|--------|-------------|--------|------|
+
+
+### 🛰️ 6.2 Remote Sensing Representation Learning  
+*Selected examples of representation learning works in EO and remote sensing.*
 
 > For a more comprehensive collection of remote sensing foundation models, see  
 > **[Awesome Remote Sensing Foundation Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)**.
@@ -60,6 +81,8 @@ and how those embeddings behave or are applied.
 | Abbr. | Title | Publication | Paper | Code |
 |-------|--------|-------------|--------|------|
 
+
+---
 
 ## 🤝 Contributing
 Pull requests welcome!
