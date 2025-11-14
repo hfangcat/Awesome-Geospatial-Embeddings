@@ -45,12 +45,16 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **Earth Genome Embeddings** | **Embeddings for all** | null | [Medium 2025](https://medium.com/earthrisemedia/embeddings-for-all-0e0a29415b26) | null | [Dataset](https://source.coop/earthgenome/earthindexembeddings) |
 
 
-## ⏱️ 4. Temporal / Time-Series Embeddings
-*Methods that embed or represent temporal sequences (e.g., satellite time-series) into latent spaces suitable for geospatial analysis.*
+<!-- ## ⏱️ 4. Temporal / Time-Series Embeddings
+*Methods that embed or represent temporal sequences (e.g., satellite time-series) into latent spaces suitable for geospatial analysis.* -->
+
+## 🧩 4. Aggregate / Multi-Observation Embeddings  
+*Methods that aggregate multiple observations — over time, sensors, or modalities — into a unified embedding representation (e.g., temporal sequences or multimodal stacks).*
 
 | Abbr. | Title | Publication | Paper | Code | Dataset |
 |-------|--------|-------------|--------|------|------|
-|**PRESTO**| **Lightweight, Pre-trained Transformers for Remote Sensing Timeseries** | Arxiv 2023 | [PRESTO](https://arxiv.org/abs/2304.14065) | [Code](https://github.com/nasaharvest/presto) | null |
+| **PRESTO**| **Lightweight, Pre-trained Transformers for Remote Sensing Timeseries** | Arxiv 2023 | [PRESTO](https://arxiv.org/abs/2304.14065) | [Code](https://github.com/nasaharvest/presto) | null |
+| **Copernicus-FM** | **Towards a Unified Copernicus Foundation Model for Earth Vision** | ICCV 2025 Oral | [Copernicus-FM](https://arxiv.org/abs/2503.11849) | [Code](https://github.com/zhu-xlab/Copernicus-FM) | [Copernicus-Embed-025deg](https://huggingface.co/datasets/wangyi111/Copernicus-Embed-025deg) |
 | **TESSERA** | **TESSERA: Precomputed FAIR Global Pixel Embeddings for Earth Representation and Analysis** | Arxiv 2025 | [TESSERA](https://arxiv.org/abs/2506.20380) | [Code](https://github.com/ucam-eo/tessera) | [Python Library](https://github.com/ucam-eo/geotessera) |
 | **AlphaEarth** | **AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data** | Arxiv 2025 | [AlphaEarth](https://arxiv.org/abs/2507.22291) | null | [Google Satellite Embedding](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) |
 
