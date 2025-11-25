@@ -67,6 +67,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 
 | Abbr. | Title | Publication | Paper | Code / Benchmark |
 |-------|--------|-------------|--------|------------------|
+| **DCVA** | **Unsupervised Deep Change Vector Analysis for Multiple-Change Detection in VHR Images** | TGRS 2019 | [DCVA](https://ieeexplore.ieee.org/abstract/document/8608001) | null |
 | **NeuCo-Bench** | **NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation** | Arxiv 2025 | [NeuCo-Bench](https://arxiv.org/abs/2510.17914) | [Code](https://github.com/embed2scale/NeuCo-Bench) | null |
 | **GeoINRID** | **Measuring the Intrinsic Dimension of Earth Representations** | Arxiv 2025 | [GeoINRID](https://arxiv.org/abs/2511.02101) | [Code](https://github.com/arjunarao619/GeoINRID) | [AlphaEarth on S2-100K dataset](https://drive.google.com/drive/folders/1USlgi7nRMqnsiJebLI4cplknVt9jWhpU?usp=sharing) |
 
@@ -78,7 +79,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 
 | Year | Challenge | Host / Platform | Link |
 |------|------------|----------------|------|
-| 2025 | **CVPR EARTHVISION: Embed2Scale Challenge** | CVPR EarthVision | [Embed2Scale](https://eval.ai/web/challenges/challenge-page/2465/overview) |
+| 2025 | **CVPR EARTHVISION: Embed2Scale Challenge** | CVPR EarthVision 2025 | [Embed2Scale](https://eval.ai/web/challenges/challenge-page/2465/overview) |
 | 2025 | **TerraMind Blue-Sky Challenge Round 2: Team Urban Embeddings** | IBM & ESA Φ-lab | [TerraMind Challenge](https://huggingface.co/spaces/ibm-esa-geospatial/challenge) |
 
 ---
@@ -129,7 +130,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | - | **The Potential of Copernicus Satellites for Disaster Response: Retrieving Building Damage from Sentinel-1 and Sentinel-2** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2511.05461) | [Code](https://github.com/olidietrich/xbd-s12) |
 | - | **Landslide Hazard Mapping with Geospatial Foundation Models: Geographical Generalizability, Data Scarcity, and Band Adaptability** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2511.04474) | null |
 | - | **On the Generalizability of Foundation Models for Crop Type Mapping** | IGARSS 2025 | [Paper](https://arxiv.org/abs/2409.09451) | [Code](https://github.com/yichiac/crop-type-transfer-learning) |
-
+| - | **Deploying Geospatial Foundation Models in the Real World: Lessons from WorldCereal** | ICML Terrabytes 2025 | [Paper](https://arxiv.org/abs/2508.00858) | null |
 
 ---
 
