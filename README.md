@@ -20,6 +20,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 |-------|--------|-------------|--------|
 | **LossyNeuralCompression** | **Lossy Neural Compression for Geospatial Analytics: A Review** | GRSM 2025 | [Lossy Neural Compression](https://ieeexplore.ieee.org/document/10934749) |
 | **EarthEmbeddings** | **Earth Embeddings: Harnessing the Information in Earth Observation Data with Machine Learning** | SIGGRAPH Frontiers 2025 | [Earth Embeddings](https://dl.acm.org/doi/full/10.1145/3736539.3754446) |
+| **EarthEmbeddings** | **Earth Embeddings:Towards AI-centric Representations of our Planet** | EarthArxiv 2025 | [Earth Embeddings](https://eartharxiv.org/repository/view/11083/) |
 
 ---
 
@@ -70,6 +71,8 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **DCVA** | **Unsupervised Deep Change Vector Analysis for Multiple-Change Detection in VHR Images** | TGRS 2019 | [DCVA](https://ieeexplore.ieee.org/abstract/document/8608001) | null |
 | **NeuCo-Bench** | **NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation** | Arxiv 2025 | [NeuCo-Bench](https://arxiv.org/abs/2510.17914) | [Code](https://github.com/embed2scale/NeuCo-Bench) | null |
 | **GeoINRID** | **Measuring the Intrinsic Dimension of Earth Representations** | Arxiv 2025 | [GeoINRID](https://arxiv.org/abs/2511.02101) | [Code](https://github.com/arjunarao619/GeoINRID) | [AlphaEarth on S2-100K dataset](https://drive.google.com/drive/folders/1USlgi7nRMqnsiJebLI4cplknVt9jWhpU?usp=sharing) |
+| **NeurEO** | **NeurEO: dissecting Earth observation embeddings with computational neuroscience** | Eurips REO 2025 | [NeurEO](https://github.com/REO-workshop/2025-EurIPS-REO-workshop/blob/main/papers/NeurEO_Plas.pdf) | null |
+| **Embed2ScaleWinner** | **Fused Foundation Model Embeddings for Earth Observation Compression: A Winning Solution to the Embed2Scale Challenge** | Eurips REO 2025 | [Embed2ScaleWinner](https://github.com/REO-workshop/2025-EurIPS-REO-workshop/blob/main/papers/Fused_Kerekes.pdf) | [Code](https://github.com/KerekesDavid/embed2scale-solution) | 
 
 ---
 
@@ -91,6 +94,8 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | Abbr. | Title | Publication | Paper | Code / Dataset |
 |-------|--------|-------------|--------|----------------|
 | - | **Cropland Mapping using Geospatial Embeddings** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2511.02923) | [Code](https://nasaharvest.github.io/presto-embeddings/) |
+| - | **Leveraging Compact Satellite Embeddings and Graph Neural Networks for Large-Scale Poverty Mapping** | Eurips REO 2025 | [Paper](https://arxiv.org/abs/2511.01408) | null |
+| - | **Harvesting AlphaEarth: Benchmarking the Geospatial Foundation Model for Agricultural Downstream Tasks** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2601.00857) | [Code](https://github.com/yuchima8/Harvest_AlphaEarth) |
 
 ---
 
