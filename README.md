@@ -58,7 +58,6 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **Copernicus-FM** | **Towards a Unified Copernicus Foundation Model for Earth Vision** | ICCV 2025 Oral | [Copernicus-FM](https://arxiv.org/abs/2503.11849) | [Code](https://github.com/zhu-xlab/Copernicus-FM) | [Copernicus-Embed-025deg](https://huggingface.co/datasets/wangyi111/Copernicus-Embed-025deg) |
 | **TESSERA** | **TESSERA: Precomputed FAIR Global Pixel Embeddings for Earth Representation and Analysis** | Arxiv 2025 | [TESSERA](https://arxiv.org/abs/2506.20380) | [Code](https://github.com/ucam-eo/tessera) | [Python Library](https://github.com/ucam-eo/geotessera) |
 | **AlphaEarth** | **AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data** | Arxiv 2025 | [AlphaEarth](https://arxiv.org/abs/2507.22291) | null | [Google Satellite Embedding](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) |
-| **OlmoEarth** | **OlmoEarth** | Arxiv 2025 | [OlmoEarth](https://arxiv.org/abs/2511.13655) | [Code](https://github.com/allenai/olmoearth_pretrain) | [Python Library](https://github.com/allenai/rslearn/blob/master/docs/examples/OlmoEarthEmbeddings.md) |
 
 ---
 
@@ -96,6 +95,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | - | **Cropland Mapping using Geospatial Embeddings** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2511.02923) | [Code](https://nasaharvest.github.io/presto-embeddings/) |
 | - | **Leveraging Compact Satellite Embeddings and Graph Neural Networks for Large-Scale Poverty Mapping** | Eurips REO 2025 | [Paper](https://arxiv.org/abs/2511.01408) | null |
 | - | **Harvesting AlphaEarth: Benchmarking the Geospatial Foundation Model for Agricultural Downstream Tasks** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2601.00857) | [Code](https://github.com/yuchima8/Harvest_AlphaEarth) |
+| - | **From Landslide Conditioning Factors to Satellite Embeddings: Evaluating the Utilisation of Google AlphaEarth for Landslide Susceptibility Mapping using Deep Learning** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2601.07268) | null |
 
 ---
 
@@ -117,6 +117,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **SatMAE** | **SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery** | NeurIPS 2022 | [SatMAE](https://arxiv.org/abs/2207.08051) | [Code](https://github.com/sustainlab-group/SatMAE) |
 | **Galileo** | **Galileo: Learning Global & Local Features of Many Remote Sensing Modalities** | ICML 2025 | [Galileo](https://arxiv.org/abs/2502.09356) | [Code](https://github.com/nasaharvest/galileo) |
 | **GAIR** | **GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations** | Arxiv 2025 | [GAIR](https://arxiv.org/abs/2503.16683) | null |
+| **OlmoEarth** | **OlmoEarth** | Arxiv 2025 | [OlmoEarth](https://arxiv.org/abs/2511.13655) | [Code](https://github.com/allenai/olmoearth_pretrain) / [Python Library](https://github.com/allenai/rslearn/blob/master/docs/examples/OlmoEarthEmbeddings.md) |
 
 ### 🔄 8.2 General Multimodal Embedding and Modality Gap Studies  
 *Works that investigate or analyze the latent space gap between visual and textual modalities — relevant for understanding cross-modal geospatial embeddings.*
