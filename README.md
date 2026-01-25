@@ -96,6 +96,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | - | **Leveraging Compact Satellite Embeddings and Graph Neural Networks for Large-Scale Poverty Mapping** | Eurips REO 2025 | [Paper](https://arxiv.org/abs/2511.01408) | null |
 | - | **Harvesting AlphaEarth: Benchmarking the Geospatial Foundation Model for Agricultural Downstream Tasks** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2601.00857) | [Code](https://github.com/yuchima8/Harvest_AlphaEarth) |
 | - | **From Landslide Conditioning Factors to Satellite Embeddings: Evaluating the Utilisation of Google AlphaEarth for Landslide Susceptibility Mapping using Deep Learning** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2601.07268) | null |
+| EarthEmbeddingExplorer | **Sentinel-2 Image Retrieval with Global, Multi-modal Embeddings** | EGU26 (under review) | [Doc](https://huggingface.co/spaces/ML4Sustain/EarthExplorer/blob/main/Tutorial.md) | [WebAPP](https://huggingface.co/spaces/ML4Sustain/EarthExplorer) |
 
 ---
 
