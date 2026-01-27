@@ -1,6 +1,6 @@
-# 🌍 Awesome Geospatial Embeddings 
+# 🌍 Awesome Geospatial Embeddings
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](../../pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](../../graphs/commit-activity)
 
@@ -49,7 +49,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 <!-- ## ⏱️ 4. Temporal / Time-Series Embeddings
 *Methods that embed or represent temporal sequences (e.g., satellite time-series) into latent spaces suitable for geospatial analysis.* -->
 
-## 🧩 4. Aggregate / Multi-Observation Embeddings  
+## 🧩 4. Aggregate / Multi-Observation Embeddings
 *Methods that aggregate multiple observations — over time, sensors, or modalities — into a unified embedding representation (e.g., temporal sequences or multimodal stacks).*
 
 | Abbr. | Title | Publication | Paper | Code | Dataset |
@@ -71,7 +71,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **NeuCo-Bench** | **NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation** | Arxiv 2025 | [NeuCo-Bench](https://arxiv.org/abs/2510.17914) | [Code](https://github.com/embed2scale/NeuCo-Bench) | null |
 | **GeoINRID** | **Measuring the Intrinsic Dimension of Earth Representations** | Arxiv 2025 | [GeoINRID](https://arxiv.org/abs/2511.02101) | [Code](https://github.com/arjunarao619/GeoINRID) | [AlphaEarth on S2-100K dataset](https://drive.google.com/drive/folders/1USlgi7nRMqnsiJebLI4cplknVt9jWhpU?usp=sharing) |
 | **NeurEO** | **NeurEO: dissecting Earth observation embeddings with computational neuroscience** | Eurips REO 2025 | [NeurEO](https://github.com/REO-workshop/2025-EurIPS-REO-workshop/blob/main/papers/NeurEO_Plas.pdf) | null |
-| **Embed2ScaleWinner** | **Fused Foundation Model Embeddings for Earth Observation Compression: A Winning Solution to the Embed2Scale Challenge** | Eurips REO 2025 | [Embed2ScaleWinner](https://github.com/REO-workshop/2025-EurIPS-REO-workshop/blob/main/papers/Fused_Kerekes.pdf) | [Code](https://github.com/KerekesDavid/embed2scale-solution) | 
+| **Embed2ScaleWinner** | **Fused Foundation Model Embeddings for Earth Observation Compression: A Winning Solution to the Embed2Scale Challenge** | Eurips REO 2025 | [Embed2ScaleWinner](https://github.com/REO-workshop/2025-EurIPS-REO-workshop/blob/main/papers/Fused_Kerekes.pdf) | [Code](https://github.com/KerekesDavid/embed2scale-solution) |
 
 ---
 
@@ -102,13 +102,13 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 
 ## 🌐 8. Related Works (for context)
 <!-- *Representation learning or foundation model papers that produce embeddings but are not embedding-centric.* -->
-*Broader studies on representation learning and multimodal embeddings that provide conceptual context for geospatial embedding research.*  
+*Broader studies on representation learning and multimodal embeddings that provide conceptual context for geospatial embedding research.*
 
-### 🛰️ 8.1 Remote Sensing Representation Learning  
+### 🛰️ 8.1 Remote Sensing Representation Learning
 <!-- *Selected examples of representation learning works in EO and remote sensing.* -->
 *Representative works on large-scale or foundational representation learning in Earth observation — including early frameworks and recent foundation models.*
 
-> For a more comprehensive collection of remote sensing foundation models, see  
+> For a more comprehensive collection of remote sensing foundation models, see
 > **[Awesome Remote Sensing Foundation Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)**.
 
 | Abbr. | Title | Publication | Paper | Code |
@@ -120,7 +120,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **GAIR** | **GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations** | Arxiv 2025 | [GAIR](https://arxiv.org/abs/2503.16683) | null |
 | **OlmoEarth** | **OlmoEarth** | Arxiv 2025 | [OlmoEarth](https://arxiv.org/abs/2511.13655) | [Code](https://github.com/allenai/olmoearth_pretrain) / [Python Library](https://github.com/allenai/rslearn/blob/master/docs/examples/OlmoEarthEmbeddings.md) |
 
-### 🔄 8.2 General Multimodal Embedding and Modality Gap Studies  
+### 🔄 8.2 General Multimodal Embedding and Modality Gap Studies
 *Works that investigate or analyze the latent space gap between visual and textual modalities — relevant for understanding cross-modal geospatial embeddings.*
 
 | Abbr. | Title | Publication | Paper | Code |
@@ -129,7 +129,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **DinoVision** | **Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry** | Arxiv 2025 | [DinoVision](https://arxiv.org/abs/2510.08638) | [Code](https://github.com/KempnerInstitute/dinovision) |
 
 
-### 🌋 8.3 Potentially Interesting Works  
+### 🌋 8.3 Potentially Interesting Works
 *Applied or thematic studies that are not embedding-centric but highlight promising directions or use cases for geospatial representation learning (e.g., disaster response, environmental monitoring, planetary mapping).*
 
 | Abbr. | Title | Publication | Paper | Code |
@@ -145,3 +145,15 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 Pull requests welcome!
 
 Please add only works that **explicitly discuss or apply geospatial embeddings** — their definition, analysis, evaluation, or use.
+
+## 🔖 Citation
+If you use this list in your research, please consider citing our paper:
+```bibtex
+@unpublished{fang2026earth,
+    author = {Heng Fang and Adam J. Stewart and Isaac Corley and Xiao Xiang Zhu and Hossein Azizpour},
+    title = {Earth Embeddings as Products: Taxonomy, Ecosystem, and Standardized Access},
+    note = {arXiv preprint arXiv:2601.13134},
+    month = jan,
+    year = {2026}
+}
+```

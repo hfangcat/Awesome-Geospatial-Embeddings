@@ -1,0 +1,33 @@
+# https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+# Can be validated using `cffconvert --validate`
+authors:
+  - family-names: 'Fang'
+    given-names: 'Heng'
+  - family-names: 'Stewart'
+    given-names: 'Adam J.'
+  - family-names: 'Corley'
+    given-names: 'Isaac'
+  - family-names: 'Zhu'
+    given-names: 'Xiao Xiang'
+  - family-names: 'Azizpour'
+    given-names: 'Hossein'
+cff-version: '1.2.0'
+message: 'If you use this software, please cite it using the metadata from this file.'
+preferred-citation:
+  authors:
+    - family-names: 'Fang'
+      given-names: 'Heng'
+    - family-names: 'Stewart'
+      given-names: 'Adam J.'
+    - family-names: 'Corley'
+      given-names: 'Isaac'
+    - family-names: 'Zhu'
+      given-names: 'Xiao Xiang'
+    - family-names: 'Azizpour'
+      given-names: 'Hossein'
+  journal: 'arXiv preprint arXiv:2601.13134'
+  month: 1
+  title: 'Earth Embeddings as Products: Taxonomy, Ecosystem, and Standardized Access'
+  type: 'unpublished'
+  year: 2026
+title: 'Earth Embeddings as Products: Taxonomy, Ecosystem, and Standardized Access'
