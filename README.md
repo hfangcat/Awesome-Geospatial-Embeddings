@@ -21,6 +21,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **LossyNeuralCompression** | **Lossy Neural Compression for Geospatial Analytics: A Review** | GRSM 2025 | [Lossy Neural Compression](https://ieeexplore.ieee.org/document/10934749) |
 | **EarthEmbeddings** | **Earth Embeddings: Harnessing the Information in Earth Observation Data with Machine Learning** | SIGGRAPH Frontiers 2025 | [Earth Embeddings](https://dl.acm.org/doi/full/10.1145/3736539.3754446) |
 | **EarthEmbeddings** | **Earth Embeddings:Towards AI-centric Representations of our Planet** | EarthArxiv 2025 | [Earth Embeddings](https://eartharxiv.org/repository/view/11083/) |
+| **EarthEmbeddingsAsProducts** | **Earth Embeddings as Products: Taxonomy, Ecosystem, and Standardized Access** | Arxiv 2026 | [Earth Embeddings as Products](https://arxiv.org/abs/2601.13134) |
 
 ---
 
@@ -33,6 +34,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **GeoCLIP** | **GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization** | NeurIPS 2023 | [GeoCLIP](https://arxiv.org/abs/2309.16020) | [Code](https://github.com/VicenteVivan/geo-clip) | null |
 | **LocationEncoder** | **Geographic Location Encoding with Spherical Harmonics and Sinusoidal Representation Networks** | ICLR 2024 | [LocationEncoder](https://arxiv.org/abs/2310.06743) | [Code](https://github.com/marccoru/locationencoder) | null |
 | **SatCLIP** | **SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery** | AAAI 2025 | [SatCLIP](https://ojs.aaai.org/index.php/AAAI/article/view/32457) | [Code](https://github.com/microsoft/satclip) | null |
+| **HybridSlepian** | **Localized, High-resolution Geographic Representations with Slepian Functions** | Arxiv 2026 | [HybridSlepian](https://arxiv.org/abs/2602.00392) | [Code](https://github.com/arjunarao619/SlepianPosEnc) | null |
 
 
 ---
@@ -58,6 +60,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **Copernicus-FM** | **Towards a Unified Copernicus Foundation Model for Earth Vision** | ICCV 2025 Oral | [Copernicus-FM](https://arxiv.org/abs/2503.11849) | [Code](https://github.com/zhu-xlab/Copernicus-FM) | [Copernicus-Embed-025deg](https://huggingface.co/datasets/wangyi111/Copernicus-Embed-025deg) |
 | **TESSERA** | **TESSERA: Precomputed FAIR Global Pixel Embeddings for Earth Representation and Analysis** | Arxiv 2025 | [TESSERA](https://arxiv.org/abs/2506.20380) | [Code](https://github.com/ucam-eo/tessera) | [Python Library](https://github.com/ucam-eo/geotessera) |
 | **AlphaEarth** | **AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data** | Arxiv 2025 | [AlphaEarth](https://arxiv.org/abs/2507.22291) | null | [Google Satellite Embedding](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) |
+| **ESD** | **Democratizing planetary-scale analysis: An ultra-lightweight Earth embedding database for accurate and flexible global land monitoring** | Arxiv 2026 | [ESD](https://arxiv.org/abs/2601.11183) | [Code](https://github.com/shuangchencc/ESD) | [ESD Dataset](https://data-starcloud.pcl.ac.cn/iearthdata/64) |
 
 ---
 
@@ -72,6 +75,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **GeoINRID** | **Measuring the Intrinsic Dimension of Earth Representations** | Arxiv 2025 | [GeoINRID](https://arxiv.org/abs/2511.02101) | [Code](https://github.com/arjunarao619/GeoINRID) | [AlphaEarth on S2-100K dataset](https://drive.google.com/drive/folders/1USlgi7nRMqnsiJebLI4cplknVt9jWhpU?usp=sharing) |
 | **NeurEO** | **NeurEO: dissecting Earth observation embeddings with computational neuroscience** | Eurips REO 2025 | [NeurEO](https://github.com/REO-workshop/2025-EurIPS-REO-workshop/blob/main/papers/NeurEO_Plas.pdf) | null |
 | **Embed2ScaleWinner** | **Fused Foundation Model Embeddings for Earth Observation Compression: A Winning Solution to the Embed2Scale Challenge** | Eurips REO 2025 | [Embed2ScaleWinner](https://github.com/REO-workshop/2025-EurIPS-REO-workshop/blob/main/papers/Fused_Kerekes.pdf) | [Code](https://github.com/KerekesDavid/embed2scale-solution) |
+| **PatchPooling** | **From Pixels to Patches: Pooling Strategies for Earth Embeddings** | Arxiv 2026 | [PatchPooling](https://arxiv.org/abs/2603.02080) | [Code](https://github.com/isaaccorley/geopool) |
 
 ---
 
@@ -96,7 +100,9 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | - | **Leveraging Compact Satellite Embeddings and Graph Neural Networks for Large-Scale Poverty Mapping** | Eurips REO 2025 | [Paper](https://arxiv.org/abs/2511.01408) | null |
 | - | **Harvesting AlphaEarth: Benchmarking the Geospatial Foundation Model for Agricultural Downstream Tasks** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2601.00857) | [Code](https://github.com/yuchima8/Harvest_AlphaEarth) |
 | - | **From Landslide Conditioning Factors to Satellite Embeddings: Evaluating the Utilisation of Google AlphaEarth for Landslide Susceptibility Mapping using Deep Learning** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2601.07268) | null |
-| EarthEmbeddingExplorer | **Sentinel-2 Image Retrieval with Global, Multi-modal Embeddings** | EGU26 (under review) | [Doc](https://huggingface.co/spaces/ML4Sustain/EarthExplorer/blob/main/Tutorial.md) | [WebAPP](https://huggingface.co/spaces/ML4Sustain/EarthExplorer) |
+| **EarthEmbeddingExplorer** | **Sentinel-2 Image Retrieval with Global, Multi-modal Embeddings** | EGU26 (under review) | [Doc](https://huggingface.co/spaces/ML4Sustain/EarthExplorer/blob/main/Tutorial.md) | [WebAPP](https://huggingface.co/spaces/ML4Sustain/EarthExplorer) |
+| - | **Inferring Height from Earth Embeddings: First insights using Google AlphaEarth** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2602.17250) | null |
+| **RS-Embed** | **Any Model, Any Place, Any Time: Get Remote Sensing Foundation Model Embeddings On Demand** | SIGSPATIAL 2026 | [RS-Embed](https://arxiv.org/abs/2602.23678) | [Code](https://github.com/cybergis/rs-embed) |
 
 ---
 
@@ -119,6 +125,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **Galileo** | **Galileo: Learning Global & Local Features of Many Remote Sensing Modalities** | ICML 2025 | [Galileo](https://arxiv.org/abs/2502.09356) | [Code](https://github.com/nasaharvest/galileo) |
 | **GAIR** | **GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations** | Arxiv 2025 | [GAIR](https://arxiv.org/abs/2503.16683) | null |
 | **OlmoEarth** | **OlmoEarth** | Arxiv 2025 | [OlmoEarth](https://arxiv.org/abs/2511.13655) | [Code](https://github.com/allenai/olmoearth_pretrain) / [Python Library](https://github.com/allenai/rslearn/blob/master/docs/examples/OlmoEarthEmbeddings.md) |
+| - | **How Much of a Model Do We Need? Redundancy and Slimmability in Remote Sensing Foundation Models** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2601.22841) | null |
 
 ### 🔄 8.2 General Multimodal Embedding and Modality Gap Studies
 *Works that investigate or analyze the latent space gap between visual and textual modalities — relevant for understanding cross-modal geospatial embeddings.*
