@@ -76,6 +76,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **NeurEO** | **NeurEO: dissecting Earth observation embeddings with computational neuroscience** | Eurips REO 2025 | [NeurEO](https://github.com/REO-workshop/2025-EurIPS-REO-workshop/blob/main/papers/NeurEO_Plas.pdf) | null |
 | **Embed2ScaleWinner** | **Fused Foundation Model Embeddings for Earth Observation Compression: A Winning Solution to the Embed2Scale Challenge** | Eurips REO 2025 | [Embed2ScaleWinner](https://github.com/REO-workshop/2025-EurIPS-REO-workshop/blob/main/papers/Fused_Kerekes.pdf) | [Code](https://github.com/KerekesDavid/embed2scale-solution) |
 | **PatchPooling** | **From Pixels to Patches: Pooling Strategies for Earth Embeddings** | Arxiv 2026 | [PatchPooling](https://arxiv.org/abs/2603.02080) | [Code](https://github.com/isaaccorley/geopool) |
+| **EmbedEO** | **How To Embed Matters: Evaluation of EO Embedding Design Choices** | Arxiv 2026 | [EmbedEO](https://arxiv.org/abs/2603.10658) | null |
 
 ---
 
@@ -126,6 +127,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **GAIR** | **GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations** | Arxiv 2025 | [GAIR](https://arxiv.org/abs/2503.16683) | null |
 | **OlmoEarth** | **OlmoEarth** | Arxiv 2025 | [OlmoEarth](https://arxiv.org/abs/2511.13655) | [Code](https://github.com/allenai/olmoearth_pretrain) / [Python Library](https://github.com/allenai/rslearn/blob/master/docs/examples/OlmoEarthEmbeddings.md) |
 | - | **How Much of a Model Do We Need? Redundancy and Slimmability in Remote Sensing Foundation Models** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2601.22841) | null |
+| - | **LEPA: Learning Geometric Equivariance in Satellite Remote Sensing Data with a Predictive Architecture** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2603.07246) | [Code](https://github.com/embed2scale/LEPA) |
 
 ### 🔄 8.2 General Multimodal Embedding and Modality Gap Studies
 *Works that investigate or analyze the latent space gap between visual and textual modalities — relevant for understanding cross-modal geospatial embeddings.*
