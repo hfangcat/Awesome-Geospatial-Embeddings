@@ -128,6 +128,9 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **OlmoEarth** | **OlmoEarth** | Arxiv 2025 | [OlmoEarth](https://arxiv.org/abs/2511.13655) | [Code](https://github.com/allenai/olmoearth_pretrain) / [Python Library](https://github.com/allenai/rslearn/blob/master/docs/examples/OlmoEarthEmbeddings.md) |
 | - | **How Much of a Model Do We Need? Redundancy and Slimmability in Remote Sensing Foundation Models** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2601.22841) | null |
 | - | **LEPA: Learning Geometric Equivariance in Satellite Remote Sensing Data with a Predictive Architecture** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2603.07246) | [Code](https://github.com/embed2scale/LEPA) |
+| **TerraCodec** | **TerraCodec: Compressing Optical Earth Observation Data** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2510.12670) | [Code](https://github.com/IBM/TerraCodec) |
+| **HideAndSeek** | **Hide and Seek: Investigating Redundancy in Earth Observation Imagery** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2603.13524) | null |
+
 
 ### 🔄 8.2 General Multimodal Embedding and Modality Gap Studies
 *Works that investigate or analyze the latent space gap between visual and textual modalities — relevant for understanding cross-modal geospatial embeddings.*
