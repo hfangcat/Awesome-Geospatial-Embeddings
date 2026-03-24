@@ -77,6 +77,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **Embed2ScaleWinner** | **Fused Foundation Model Embeddings for Earth Observation Compression: A Winning Solution to the Embed2Scale Challenge** | Eurips REO 2025 | [Embed2ScaleWinner](https://github.com/REO-workshop/2025-EurIPS-REO-workshop/blob/main/papers/Fused_Kerekes.pdf) | [Code](https://github.com/KerekesDavid/embed2scale-solution) |
 | **PatchPooling** | **From Pixels to Patches: Pooling Strategies for Earth Embeddings** | Arxiv 2026 | [PatchPooling](https://arxiv.org/abs/2603.02080) | [Code](https://github.com/isaaccorley/geopool) |
 | **EmbedEO** | **How To Embed Matters: Evaluation of EO Embedding Design Choices** | Arxiv 2026 | [EmbedEO](https://arxiv.org/abs/2603.10658) | null |
+| **AlphaEarthInterpret** | **What on Earth is AlphaEarth? Hierarchical structure and functional interpretability for global land cover** | Arxiv 2026 | [AlphaEarthInterpret](https://arxiv.org/abs/2603.16911) | null |
 
 ---
 
@@ -104,6 +105,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **EarthEmbeddingExplorer** | **Sentinel-2 Image Retrieval with Global, Multi-modal Embeddings** | EGU26 (under review) | [Doc](https://huggingface.co/spaces/ML4Sustain/EarthExplorer/blob/main/Tutorial.md) | [WebAPP](https://huggingface.co/spaces/ML4Sustain/EarthExplorer) |
 | - | **Inferring Height from Earth Embeddings: First insights using Google AlphaEarth** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2602.17250) | null |
 | **RS-Embed** | **Any Model, Any Place, Any Time: Get Remote Sensing Foundation Model Embeddings On Demand** | SIGSPATIAL 2026 | [RS-Embed](https://arxiv.org/abs/2602.23678) | [Code](https://github.com/cybergis/rs-embed) |
+| - | **Assessing the Effectiveness of Deep Embeddings for Tree Species Classification in the Dutch Forest Inventory** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2508.18829) | [Code](https://github.com/wildflowers315/tree-species-classification-with-presto) |
 
 ---
 
