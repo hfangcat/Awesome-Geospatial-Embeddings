@@ -34,6 +34,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **GeoCLIP** | **GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization** | NeurIPS 2023 | [GeoCLIP](https://arxiv.org/abs/2309.16020) | [Code](https://github.com/VicenteVivan/geo-clip) | null |
 | **LocationEncoder** | **Geographic Location Encoding with Spherical Harmonics and Sinusoidal Representation Networks** | ICLR 2024 | [LocationEncoder](https://arxiv.org/abs/2310.06743) | [Code](https://github.com/marccoru/locationencoder) | null |
 | **SatCLIP** | **SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery** | AAAI 2025 | [SatCLIP](https://ojs.aaai.org/index.php/AAAI/article/view/32457) | [Code](https://github.com/microsoft/satclip) | null |
+| **MoRA** | **MoRA: Mobility as the Backbone for Geospatial Representation Learning at Scale** | ICLR 2026 | [MoRA](https://arxiv.org/abs/2506.01297) | [Code](https://github.com/ylzhouchris/MoRA) | [Project Page](https://mora-embedding.github.io/) |
 | **HybridSlepian** | **Localized, High-resolution Geographic Representations with Slepian Functions** | Arxiv 2026 | [HybridSlepian](https://arxiv.org/abs/2602.00392) | [Code](https://github.com/arjunarao619/SlepianPosEnc) | null |
 
 
