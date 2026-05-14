@@ -85,10 +85,11 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 *Active or past public challenges focused on geospatial embedding learning or evaluation.*
 
 
-| Year | Challenge | Host / Platform | Link |
-|------|------------|----------------|------|
-| 2025 | **CVPR EARTHVISION: Embed2Scale Challenge** | CVPR EarthVision 2025 | [Embed2Scale](https://eval.ai/web/challenges/challenge-page/2465/overview) |
-| 2025 | **TerraMind Blue-Sky Challenge Round 2: Team Urban Embeddings** | IBM & ESA Φ-lab | [TerraMind Challenge](https://huggingface.co/spaces/ibm-esa-geospatial/challenge) |
+| Year | Challenge | Host / Platform                 | Link                                                                              |
+|------|------------|---------------------------------|-----------------------------------------------------------------------------------|
+| 2026 | **Reaching new heights with GeoFM** | KTH & ITU & AI4Good & ESA Φ-lab | [GeoFM](https://challenges.philab.esa.int/portfolio/geoai/)                       |
+| 2025 | **CVPR EARTHVISION: Embed2Scale Challenge** | CVPR EarthVision 2025           | [Embed2Scale](https://eval.ai/web/challenges/challenge-page/2465/overview)        |
+| 2025 | **TerraMind Blue-Sky Challenge Round 2: Team Urban Embeddings** | IBM & ESA Φ-lab                 | [TerraMind Challenge](https://huggingface.co/spaces/ibm-esa-geospatial/challenge) |
 
 ---
 
