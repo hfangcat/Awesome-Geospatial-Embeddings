@@ -36,6 +36,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **SatCLIP** | **SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery** | AAAI 2025 | [SatCLIP](https://ojs.aaai.org/index.php/AAAI/article/view/32457) | [Code](https://github.com/microsoft/satclip) | null |
 | **MoRA** | **MoRA: Mobility as the Backbone for Geospatial Representation Learning at Scale** | ICLR 2026 | [MoRA](https://arxiv.org/abs/2506.01297) | [Code](https://github.com/ylzhouchris/MoRA) | [Project Page](https://mora-embedding.github.io/) |
 | **HybridSlepian** | **Localized, High-resolution Geographic Representations with Slepian Functions** | Arxiv 2026 | [HybridSlepian](https://arxiv.org/abs/2602.00392) | [Code](https://github.com/arjunarao619/SlepianPosEnc) | null |
+| **LIANet** | **Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data** | Arxiv 2026 | [LIANet](https://arxiv.org/abs/2604.07092) | [Code](https://github.com/mojganmadadi/LIANet) | [Dataset](https://drive.google.com/drive/folders/1YKtqOJsDsCeZ_k-cpG902H2V6FQdGkzr?usp=sharing) |
 
 
 ---
@@ -44,7 +45,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 
 | Abbr. | Title | Publication | Paper | Code | Dataset |
 |-------|--------|-------------|--------|------|------|
-| **CLAY Embeddings** | **Clay Model v0 Embeddings** | Source Cooperative 2024 | null | [Code](https://github.com/Clay-foundation) | [Dataset](https://source.coop/clay/clay-model-v0-embeddings) |
+| **CLAY Embeddings** | **Clay Model v0 Embeddings** | Source Cooperative 2024 | null | [Code](https://github.com/Clay-foundation) | [Dataset](https://source.coop/clay/clay-model-v0-embeddings) / [LGND Clay Embeddings - Sentinel2](https://source.coop/clay/lgnd-clay-v1-5-sentinel-2-l2a) |
 | **Major TOM Embeddings** | **Global and Dense Embeddings of Earth: Major TOM Floating in the Latent Space** | Arxiv 2024 | [Arxiv Paper](https://arxiv.org/abs/2412.05600) | [Code](https://github.com/ESA-PhiLab/Major-TOM) | [Dataset](https://huggingface.co/Major-TOM) |
 | **Earth Genome Embeddings** | **Embeddings for all** | null | [Medium 2025](https://medium.com/earthrisemedia/embeddings-for-all-0e0a29415b26) | null | [Dataset](https://source.coop/earthgenome/earthindexembeddings) |
 
@@ -79,6 +80,8 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **PatchPooling** | **From Pixels to Patches: Pooling Strategies for Earth Embeddings** | Arxiv 2026 | [PatchPooling](https://arxiv.org/abs/2603.02080) | [Code](https://github.com/isaaccorley/geopool) |
 | **EmbedEO** | **How To Embed Matters: Evaluation of EO Embedding Design Choices** | Arxiv 2026 | [EmbedEO](https://arxiv.org/abs/2603.10658) | null |
 | **AlphaEarthInterpret** | **What on Earth is AlphaEarth? Hierarchical structure and functional interpretability for global land cover** | Arxiv 2026 | [AlphaEarthInterpret](https://arxiv.org/abs/2603.16911) | null |
+| **EmbedUrban** | **Earth Embeddings Reveal Diverse Urban Signals from Space** | Arxiv 2026 | [EmbedUrban](https://arxiv.org/abs/2604.03456) | null |
+| **EmbedComplementarity** | **Better Together: Evaluating the Complementarity of Earth Embedding Models** | Arxiv 2026 | [EmbedComplementarity](https://arxiv.org/abs/2605.18667) | [Code](https://github.com/vdplasthijs/better_together) |
 
 ---
 
@@ -108,6 +111,12 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | - | **Inferring Height from Earth Embeddings: First insights using Google AlphaEarth** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2602.17250) | null |
 | **RS-Embed** | **Any Model, Any Place, Any Time: Get Remote Sensing Foundation Model Embeddings On Demand** | SIGSPATIAL 2026 | [RS-Embed](https://arxiv.org/abs/2602.23678) | [Code](https://github.com/cybergis/rs-embed) |
 | - | **Assessing the Effectiveness of Deep Embeddings for Tree Species Classification in the Dutch Forest Inventory** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2508.18829) | [Code](https://github.com/wildflowers315/tree-species-classification-with-presto) |
+| **SSDM** | **Structure-Semantic Decoupled Modulation of Global Geospatial Embeddings for High-Resolution Remote Sensing Mapping** | Arxiv 2026 | [SSDM](https://arxiv.org/abs/2604.19591) | null |
+| - | **Characterizing Brazilian Atlantic Forest Restoration Outcomes with Geospatial AlphaEarth Embeddings** | ICLR ML4RS 2026 | [Paper](https://arxiv.org/abs/2605.05547) | null |
+| - | **Do Foundation Model Embeddings Improve Cross-Country Crop Yield Generalisation? A Leave-One-Country-Out Evaluation in Sub-Saharan Africa** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2605.08113) | [Code](https://github.com/yoadjei/yield-africa) |
+| - | **Geospatial foundation-model embeddings improve population estimation unevenly across space and scale** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2605.01650) | [Code](https://github.com/WB-zhang94/Benchmark-PDFM-in-population-modelling) |
+| **DFR-Gemma** | **Enabling Intrinsic Reasoning over Dense Geospatial Embeddings with DFR-Gemma** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2604.07490) | null |
+| - | **Characterizing AlphaEarth Embedding Geometry for Agentic Environmental Reasoning** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2604.18715) | null |
 
 ---
 
@@ -129,11 +138,15 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **SatMAE** | **SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery** | NeurIPS 2022 | [SatMAE](https://arxiv.org/abs/2207.08051) | [Code](https://github.com/sustainlab-group/SatMAE) |
 | **Galileo** | **Galileo: Learning Global & Local Features of Many Remote Sensing Modalities** | ICML 2025 | [Galileo](https://arxiv.org/abs/2502.09356) | [Code](https://github.com/nasaharvest/galileo) |
 | **GAIR** | **GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations** | Arxiv 2025 | [GAIR](https://arxiv.org/abs/2503.16683) | null |
-| **OlmoEarth** | **OlmoEarth** | Arxiv 2025 | [OlmoEarth](https://arxiv.org/abs/2511.13655) | [Code](https://github.com/allenai/olmoearth_pretrain) / [Python Library](https://github.com/allenai/rslearn/blob/master/docs/examples/OlmoEarthEmbeddings.md) |
+| **OlmoEarth** | **OlmoEarth** | Arxiv 2025 | [OlmoEarth](https://arxiv.org/abs/2511.13655) / [Project Page](https://allenai.org/blog/olmoearth-embeddings) | [Code](https://github.com/allenai/olmoearth_pretrain) / [Python Library](https://github.com/allenai/rslearn/blob/master/docs/examples/OlmoEarthEmbeddings.md) |
 | - | **How Much of a Model Do We Need? Redundancy and Slimmability in Remote Sensing Foundation Models** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2601.22841) | null |
 | - | **LEPA: Learning Geometric Equivariance in Satellite Remote Sensing Data with a Predictive Architecture** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2603.07246) | [Code](https://github.com/embed2scale/LEPA) |
 | **TerraCodec** | **TerraCodec: Compressing Optical Earth Observation Data** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2510.12670) | [Code](https://github.com/IBM/TerraCodec) |
 | **HideAndSeek** | **Hide and Seek: Investigating Redundancy in Earth Observation Imagery** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2603.13524) | null |
+| - | **No One Knows the State of the Art in Geospatial Foundation Models** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2605.12678) | [Code](https://github.com/taylor-geospatial/gfm-leaderboard) |
+| - | **Pretrain Where? Investigating How Pretraining Data Diversity Impacts Geospatial Foundation Model Performance** | CVPR EarthVision 2026 | [Paper](https://arxiv.org/abs/2604.21104) | [Code](https://github.com/kerner-lab/pretrain-where) |
+| **Tempov** | **A satellite foundation model for improved wealth monitoring** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2604.23166) | null |
+| **EarthShift** | **EarthShift: a benchmark for measuring robustness to real-world distribution shifts in Earth observation** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2605.29330) | [Code](https://earthshift.github.io/) |
 
 
 ### 🔄 8.2 General Multimodal Embedding and Modality Gap Studies
