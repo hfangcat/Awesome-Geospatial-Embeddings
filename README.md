@@ -117,6 +117,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | - | **Geospatial foundation-model embeddings improve population estimation unevenly across space and scale** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2605.01650) | [Code](https://github.com/WB-zhang94/Benchmark-PDFM-in-population-modelling) |
 | **DFR-Gemma** | **Enabling Intrinsic Reasoning over Dense Geospatial Embeddings with DFR-Gemma** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2604.07490) | null |
 | - | **Characterizing AlphaEarth Embedding Geometry for Agentic Environmental Reasoning** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2604.18715) | null |
+| - | **Continuous biome representations from Earth observation embeddings** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2606.11510) | null |
 
 ---
 
