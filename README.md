@@ -82,6 +82,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **AlphaEarthInterpret** | **What on Earth is AlphaEarth? Hierarchical structure and functional interpretability for global land cover** | Arxiv 2026 | [AlphaEarthInterpret](https://arxiv.org/abs/2603.16911) | null |
 | **EmbedUrban** | **Earth Embeddings Reveal Diverse Urban Signals from Space** | Arxiv 2026 | [EmbedUrban](https://arxiv.org/abs/2604.03456) | null |
 | **EmbedComplementarity** | **Better Together: Evaluating the Complementarity of Earth Embedding Models** | Arxiv 2026 | [EmbedComplementarity](https://arxiv.org/abs/2605.18667) | [Code](https://github.com/vdplasthijs/better_together) |
+| **LocEnc-XAI** | **What's in an Earth Embedding? An Explainability Analysis of Location Encoders** | Arxiv 2026 | [LocEnc-XAI](https://arxiv.org/abs/2606.24997) | [Code](https://github.com/sricke/explainable-earth-embeddings) |
 
 ---
 
