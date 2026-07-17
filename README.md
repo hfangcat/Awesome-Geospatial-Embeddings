@@ -37,6 +37,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **MoRA** | **MoRA: Mobility as the Backbone for Geospatial Representation Learning at Scale** | ICLR 2026 | [MoRA](https://arxiv.org/abs/2506.01297) | [Code](https://github.com/ylzhouchris/MoRA) | [Project Page](https://mora-embedding.github.io/) |
 | **HybridSlepian** | **Localized, High-resolution Geographic Representations with Slepian Functions** | Arxiv 2026 | [HybridSlepian](https://arxiv.org/abs/2602.00392) | [Code](https://github.com/arjunarao619/SlepianPosEnc) | null |
 | **LIANet** | **Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data** | Arxiv 2026 | [LIANet](https://arxiv.org/abs/2604.07092) | [Code](https://github.com/mojganmadadi/LIANet) | [Dataset](https://drive.google.com/drive/folders/1YKtqOJsDsCeZ_k-cpG902H2V6FQdGkzr?usp=sharing) |
+| **TTE** | **Tessellating The Earth** | ECCV 2026 | [TTE](https://arxiv.org/abs/2606.27514) | [Code](https://github.com/mvrl/TTE) | null |
 
 
 ---
