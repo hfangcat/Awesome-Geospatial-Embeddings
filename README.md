@@ -22,6 +22,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **EarthEmbeddings** | **Earth Embeddings: Harnessing the Information in Earth Observation Data with Machine Learning** | SIGGRAPH Frontiers 2025 | [Earth Embeddings](https://dl.acm.org/doi/full/10.1145/3736539.3754446) |
 | **EarthEmbeddings** | **Earth Embeddings:Towards AI-centric Representations of our Planet** | EarthArxiv 2025 | [Earth Embeddings](https://eartharxiv.org/repository/view/11083/) |
 | **EarthEmbeddingsAsProducts** | **Earth Embeddings as Products: Taxonomy, Ecosystem, and Standardized Access** | Arxiv 2026 | [Earth Embeddings as Products](https://arxiv.org/abs/2601.13134) |
+| **EarthEmbeddings** | **Earth Embeddings (book chapter)** | Arxiv 2026 | [Earth Embeddings](https://arxiv.org/abs/2608.03410) |
 
 ---
 
