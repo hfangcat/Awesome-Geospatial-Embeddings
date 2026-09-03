@@ -85,6 +85,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **EmbedUrban** | **Earth Embeddings Reveal Diverse Urban Signals from Space** | Arxiv 2026 | [EmbedUrban](https://arxiv.org/abs/2604.03456) | null |
 | **EmbedComplementarity** | **Better Together: Evaluating the Complementarity of Earth Embedding Models** | Arxiv 2026 | [EmbedComplementarity](https://arxiv.org/abs/2605.18667) | [Code](https://github.com/vdplasthijs/better_together) |
 | **LocEnc-XAI** | **What's in an Earth Embedding? An Explainability Analysis of Location Encoders** | Arxiv 2026 | [LocEnc-XAI](https://arxiv.org/abs/2606.24997) | [Code](https://github.com/sricke/explainable-earth-embeddings) |
+| **TSA-Tessera** | **Temporal Sensitivity Analysis of Tessera Embeddings** | Arxiv 2026 | [TSA-Tessera](https://arxiv.org/abs/2608.27175) | null |
 
 ---
 
@@ -121,6 +122,10 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **DFR-Gemma** | **Enabling Intrinsic Reasoning over Dense Geospatial Embeddings with DFR-Gemma** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2604.07490) | null |
 | - | **Characterizing AlphaEarth Embedding Geometry for Agentic Environmental Reasoning** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2604.18715) | null |
 | - | **Continuous biome representations from Earth observation embeddings** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2606.11510) | null |
+| - | **Embeddings based Anomaly Detection for Cleaning Global Crop Type Reference Datasets** | ECCV Terrabytes II 2026 | [Paper](https://arxiv.org/abs/2607.23908) | [Code](https://github.com/WorldCereal/EBA_detector) |
+| - | **Above-ground Biomass Estimation with Geospatial Foundation Models** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2608.04792) | [Code](https://github.com/ghjuliasialelli/AGBD-GFMs) |
+| - | **Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2608.12271) | null |
+| - | **Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2608.26088) | [Blog](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/) |
 
 ---
 
@@ -188,5 +193,15 @@ If you use this list in your research, please consider citing our paper:
     note = {arXiv preprint arXiv:2601.13134},
     month = jan,
     year = {2026}
+}
+```
+
+```bibtex
+@unpublished{stewart2026earth,
+  author = {Adam J. Stewart and Heng Fang and Isaac Corley and Xiao Xiang Zhu},
+  title = {Earth Embeddings},
+  note = {arXiv preprint arXiv:2608.03410},
+  month = aug,
+  year = {2026}
 }
 ```
