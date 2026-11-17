@@ -21,8 +21,9 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **LossyNeuralCompression** | **Lossy Neural Compression for Geospatial Analytics: A Review** | GRSM 2025 | [Lossy Neural Compression](https://ieeexplore.ieee.org/document/10934749) |
 | **EarthEmbeddings** | **Earth Embeddings: Harnessing the Information in Earth Observation Data with Machine Learning** | SIGGRAPH Frontiers 2025 | [Earth Embeddings](https://dl.acm.org/doi/full/10.1145/3736539.3754446) |
 | **EarthEmbeddings** | **Earth Embeddings:Towards AI-centric Representations of our Planet** | EarthArxiv 2025 | [Earth Embeddings](https://eartharxiv.org/repository/view/11083/) |
-| **EarthEmbeddingsAsProducts** | **Earth Embeddings as Products: Taxonomy, Ecosystem, and Standardized Access** | Arxiv 2026 | [Earth Embeddings as Products](https://arxiv.org/abs/2601.13134) |
+| **EarthEmbeddingsAsProducts** | **Earth Embeddings as Products: Taxonomy, Ecosystem, and Standardized Access** | IGARSS 2026 | [Earth Embeddings as Products](https://arxiv.org/abs/2601.13134) |
 | **EarthEmbeddings** | **Earth Embeddings (book chapter)** | Arxiv 2026 | [Earth Embeddings](https://arxiv.org/abs/2608.03410) |
+| **EarthEmbeddingsEnvironmentalRS** | **Earth Embeddings in Environmental Remote Sensing** | Arxiv 2026 | [Earth Embeddings Environmental RS](https://arxiv.org/abs/2611.13612) |
 
 ---
 
@@ -40,6 +41,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **LIANet** | **Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data** | Arxiv 2026 | [LIANet](https://arxiv.org/abs/2604.07092) | [Code](https://github.com/mojganmadadi/LIANet) | [Dataset](https://drive.google.com/drive/folders/1YKtqOJsDsCeZ_k-cpG902H2V6FQdGkzr?usp=sharing) |
 | **TTE** | **Tessellating The Earth** | ECCV 2026 | [TTE](https://arxiv.org/abs/2606.27514) | [Code](https://github.com/mvrl/TTE) | null |
 | **MIND** | **MIND the Gap: A Geographic Implicit Neural Representation with Adjustable Spatial Scale** | Arxiv 2026 | [MIND](https://arxiv.org/abs/2609.25454) | [Code](https://github.com/taylor-geospatial/mind) | [Dataset](https://source.coop/tge-labs/mind) |
+| **LoCA** | **LoCA: Enabling Multi-Modality in Geospatial Location Encoders** | Arxiv 2026 | [LoCA](https://arxiv.org/abs/2610.32894) | [Code](https://github.com/eleannavali/LoCA) | null |
 
 
 ---
@@ -67,6 +69,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **AlphaEarth** | **AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data** | Arxiv 2025 | [AlphaEarth](https://arxiv.org/abs/2507.22291) | null | [Google Satellite Embedding](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) |
 | **ESD** | **Democratizing planetary-scale analysis: An ultra-lightweight Earth embedding database for accurate and flexible global land monitoring** | Arxiv 2026 | [ESD](https://arxiv.org/abs/2601.11183) | [Code](https://github.com/shuangchencc/ESD) | [ESD Dataset](https://data-starcloud.pcl.ac.cn/iearthdata/64) |
 | **TESSERAv2** | **TESSERA v2: Scaling Pixel-wise Earth Foundation Models** | Arxiv 2026 | [TESSERAv2](https://arxiv.org/abs/2607.03949) | [Code](https://github.com/ucam-eo/tessera) | null |
+| **OlmoEarthv1.3** | **OlmoEarth v1.3: Embeddings** | Arxiv 2026 | [OlmoEarthv1.3](https://arxiv.org/abs/2610.32294) | [Code](https://github.com/allenai/olmoearth_pretrain) | [olmoearth-v1-3-embeddings](https://source.coop/olmoearth/olmoearth-v1-3-embeddings) |
 
 ---
 
@@ -89,6 +92,9 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **LocEnc-XAI** | **What's in an Earth Embedding? An Explainability Analysis of Location Encoders** | Arxiv 2026 | [LocEnc-XAI](https://arxiv.org/abs/2606.24997) | [Code](https://github.com/sricke/explainable-earth-embeddings) |
 | **TSA-Tessera** | **Temporal Sensitivity Analysis of Tessera Embeddings** | Arxiv 2026 | [TSA-Tessera](https://arxiv.org/abs/2608.27175) | null |
 | **RGLE** | **Recoverable Geographic Location Information in Earth-Observation Embeddings** | Arxiv 2026 | [RGLE](https://arxiv.org/abs/2609.29151) | null |
+| **PFFs** | **Planetary Feature Fields are Scalable Earth Representations** | Arxiv 2026 | [PFFs](https://arxiv.org/abs/2609.37784) | null |
+| **E²Forecast** | **Forecasting Earth Surface Change in Embedding Space** | Arxiv 2026 | [E²Forecast](https://arxiv.org/abs/2611.02211) | [Code](https://github.com/ucam-eo/e2forecast) |
+| **GEOSAE** | **Decomposing Earth Embeddings with Sparse Autoencoders** | Neurips 2026 Oral | [GEOSAE](https://arxiv.org/abs/2611.11398) | [Code](https://github.com/EarthyScience/geosae) |
 
 ---
 
@@ -114,7 +120,7 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | - | **Leveraging Compact Satellite Embeddings and Graph Neural Networks for Large-Scale Poverty Mapping** | Eurips REO 2025 | [Paper](https://arxiv.org/abs/2511.01408) | null |
 | - | **Harvesting AlphaEarth: Benchmarking the Geospatial Foundation Model for Agricultural Downstream Tasks** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2601.00857) | [Code](https://github.com/yuchima8/Harvest_AlphaEarth) |
 | - | **From Landslide Conditioning Factors to Satellite Embeddings: Evaluating the Utilisation of Google AlphaEarth for Landslide Susceptibility Mapping using Deep Learning** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2601.07268) | null |
-| **EarthEmbeddingExplorer** | **Sentinel-2 Image Retrieval with Global, Multi-modal Embeddings** | EGU26/ICLR26 ML4RS | [Paper](https://arxiv.org/abs/2603.29441) | [WebAPP](https://modelscope.ai/studios/Major-TOM/EarthEmbeddingExplorer/summary) |
+| **EarthEmbeddingExplorer** | **EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images** | EGU26/ICLR26 ML4RS | [Paper](https://arxiv.org/abs/2603.29441) | [WebAPP](https://modelscope.ai/studios/Major-TOM/EarthEmbeddingExplorer/summary) |
 | - | **Inferring Height from Earth Embeddings: First insights using Google AlphaEarth** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2602.17250) | null |
 | **RS-Embed** | **Any Model, Any Place, Any Time: Get Remote Sensing Foundation Model Embeddings On Demand** | SIGSPATIAL 2026 | [RS-Embed](https://arxiv.org/abs/2602.23678) | [Code](https://github.com/cybergis/rs-embed) |
 | - | **Assessing the Effectiveness of Deep Embeddings for Tree Species Classification in the Dutch Forest Inventory** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2508.18829) | [Code](https://github.com/wildflowers315/tree-species-classification-with-presto) |
@@ -137,6 +143,14 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | - | **From Foundation Embeddings to Cropland Maps: Label Efficiency, Temporal Transferability and Independent Human Validation** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2609.17138) | [Code](https://github.com/Black-Lights/alphaearth-cropland-maine) |
 | - | **Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests** | Science of Remote Sensing 2026 | [Paper](https://www.sciencedirect.com/science/article/pii/S2666017226001045?__cf_chl_tk=rSL2hc9n6PD3KnKW21oaJz1VRasLbz8nKzhBiI4J90k-1790947108-1.0.1.1-jTideBfMqWVUsQdIWzpTSdH1JQwX4wjdEgdKwT_EXuA) | [Code](https://github.com/PatBall1/trentino-trees) |
 | - | **Annual Earth-observation embeddings encode wildfire disturbance and support simplified burned area mapping** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2609.25731) | null |
+| - | **Extending Dynamic World Surface Water Mapping to Sentinel-1 with AlphaEarth Embeddings** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2610.06704) | [Code](https://github.com/Rohit18/surfaceWaterMappingGlobal/tree/v1.0) |
+| - | **High-resolution European soil property maps based on LUCAS and AlphaEarth Foundations satellite embeddings** | Scientific Data 2026 | [Paper](https://www.nature.com/articles/s41597-026-08273-1) | [Code](https://zenodo.org/records/21281853) |
+| - | **Evaluating AlphaEarth Embeddings for Crop Classification: Separability, Temporal Dynamics, and Cross-Regional Transferability** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2610.36857) | null |
+| - | **National-scale mapping of tree species composition in Switzerland from high-resolution aerial imagery and multimodal data** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2611.08095) | [Code](https://github.com/yixin-zhou/swiss-tree-species-mapping) |
+| - | **National-Scale Crop Type Mapping in Morocco Using Google AlphaEarth Foundations Embeddings and the Fields of the World Field Boundary Map** | GeoAI4SD 2026 | [Paper](https://arxiv.org/abs/2611.12681) | null |
+| - | **Shortcut Learning in Geospatial Foundation Model Embeddings for Cross-Disaster Damage Assessment** | 	NeurIPS REO 2026 | [Paper](https://arxiv.org/abs/2610.13766) | [Code](https://github.com/alishibli97/gfm-shortcut-learning) |
+| - | **OCELOT: Planetary-Scale Species Distribution Modeling with Satellite Foundation Embeddings** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2611.00284) | null |
+| - | **Earth embeddings are decomposable records of the land surface** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2610.32617) |null |
 
 ---
 
@@ -159,16 +173,15 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | **Galileo** | **Galileo: Learning Global & Local Features of Many Remote Sensing Modalities** | ICML 2025 | [Galileo](https://arxiv.org/abs/2502.09356) | [Code](https://github.com/nasaharvest/galileo) |
 | **GAIR** | **GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations** | Arxiv 2025 | [GAIR](https://arxiv.org/abs/2503.16683) | null |
 | **OlmoEarth** | **OlmoEarth** | Arxiv 2025 | [OlmoEarth](https://arxiv.org/abs/2511.13655) / [Project Page](https://allenai.org/blog/olmoearth-embeddings) | [Code](https://github.com/allenai/olmoearth_pretrain) / [Python Library](https://github.com/allenai/rslearn/blob/master/docs/examples/OlmoEarthEmbeddings.md) |
-| - | **How Much of a Model Do We Need? Redundancy and Slimmability in Remote Sensing Foundation Models** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2601.22841) | null |
+| - | **How Much of a Model Do We Need? Redundancy and Slimmability in Remote Sensing Foundation Models** | NeurIPS 2026 | [Paper](https://arxiv.org/abs/2601.22841) | null |
 | - | **LEPA: Learning Geometric Equivariance in Satellite Remote Sensing Data with a Predictive Architecture** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2603.07246) | [Code](https://github.com/embed2scale/LEPA) |
 | **TerraCodec** | **TerraCodec: Compressing Optical Earth Observation Data** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2510.12670) | [Code](https://github.com/IBM/TerraCodec) |
 | **HideAndSeek** | **Hide and Seek: Investigating Redundancy in Earth Observation Imagery** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2603.13524) | null |
-| - | **No One Knows the State of the Art in Geospatial Foundation Models** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2605.12678) | [Code](https://github.com/taylor-geospatial/gfm-leaderboard) |
+| - | **No One Knows the State of the Art in Geospatial Foundation Models** | NeurIPS 2026 Position | [Paper](https://arxiv.org/abs/2605.12678) | [Code](https://github.com/taylor-geospatial/gfm-leaderboard) |
 | - | **Pretrain Where? Investigating How Pretraining Data Diversity Impacts Geospatial Foundation Model Performance** | CVPR EarthVision 2026 | [Paper](https://arxiv.org/abs/2604.21104) | [Code](https://github.com/kerner-lab/pretrain-where) |
 | **Tempov** | **A satellite foundation model for improved wealth monitoring** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2604.23166) | null |
 | **EarthShift** | **EarthShift: a benchmark for measuring robustness to real-world distribution shifts in Earth observation** | Arxiv 2026 | [Paper](https://arxiv.org/abs/2605.29330) | [Code](https://earthshift.github.io/) |
 | **BeyondAccuracy** | **Beyond Accuracy: Assessing Calibration of Geospatial Foundation Models and Their Sensitivity to Distribution Shifts** | Arxiv 2026 | [BeyondAccuracy](https://arxiv.org/abs/2608.16614) | null |
-| **DORA** | **Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations** | Neurips Oral 2026 | [DORA](https://arxiv.org/abs/2605.11633) | [Code](https://github.com/Junjue-Wang/DORA) |
 | - | **Operational HPC lessons learnt training the Tessera geospatial foundation model series** | Arxiv 2026 | [Paper](https://www.cl.cam.ac.uk/~avsm2/tessera-hpc-report-20260922.pdf) | null |
 
 
@@ -190,6 +203,8 @@ A curated list of papers that **define, analyze, or evaluate geospatial embeddin
 | - | **Landslide Hazard Mapping with Geospatial Foundation Models: Geographical Generalizability, Data Scarcity, and Band Adaptability** | Arxiv 2025 | [Paper](https://arxiv.org/abs/2511.04474) | null |
 | - | **On the Generalizability of Foundation Models for Crop Type Mapping** | IGARSS 2025 | [Paper](https://arxiv.org/abs/2409.09451) | [Code](https://github.com/yichiac/crop-type-transfer-learning) |
 | - | **Deploying Geospatial Foundation Models in the Real World: Lessons from WorldCereal** | ICML Terrabytes 2025 | [Paper](https://arxiv.org/abs/2508.00858) | null |
+| **DORA** | **Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations** | Neurips 2026 Oral | [DORA](https://arxiv.org/abs/2605.11633) | [Code](https://github.com/Junjue-Wang/DORA) |
+| **RSI4EO** | **The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement** | Arxiv 2026 | [RSI4EO](https://arxiv.org/abs/2610.18845) | [Code](https://github.com/Yokoya-Lab-UTokyo/RSI4EO) |
 
 ---
 
